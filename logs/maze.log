@@ -1,0 +1,13 @@
+2023.06.19 17:05:53.816 INFO  View.MyViewController - The played has been changed
+2023.06.19 17:06:24.025 INFO  View.MyViewController - The played has been changed
+2023.06.19 17:07:21.477 INFO  View.MyViewController - The played has been changed
+2023.06.19 17:11:33.157 INFO  View.MyViewController - The played has been changed
+2023.06.19 17:11:36.695 INFO  Model.MyModel - Maze has been generated
+2023.06.20 16:34:45.737 INFO  View.MyViewController - The played has been changed
+2023.06.20 16:34:51.157 INFO  Model.MyModel - Maze has been generated
+2023.06.20 16:35:00.542 INFO  Model.MyModel - Maze has been solved
+2023.06.20 16:35:10.305 INFO  View.MyViewController - The player arrived to the end of the maze - goal position
+2023.06.20 16:35:15.646 INFO  Model.MyModel - Maze has been generated
+2023.06.20 16:35:20.667 INFO  View.MyViewController - About
+2023.06.20 16:35:27.122 INFO  View.MyViewController - Help
+2023.06.20 16:35:34.746 INFO  View.MyViewController - Properties has been changed
